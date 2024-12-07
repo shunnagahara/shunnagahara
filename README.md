@@ -12,4 +12,4 @@ Country boy from Shiga, just playing with computers.🤝
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shunnagahara" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shunnagahara&margin-w=5)](https://github.com/shunnagahara/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shunnagahara&margin-w=5&theme=chalk)](https://github.com/shunnagahara/)
