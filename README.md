@@ -1,7 +1,10 @@
 ## 🌕 About shunnagahara
 Country boy from Shiga, just playing with computers.🤝
 
-### 🌱 my skills
+## ✉️ Mail
+shun.nagahara.jp@gmail.com
+
+### 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,redux,nextjs,vue,jest,tailwind,vite,docker,postgres,mysql,supabase,firebase,gcp,vercel,aws,git,githubactions,php,laravel,py,fastapi,go,ruby,rails,flutter,linux" />
 
 ## 📈 Status
