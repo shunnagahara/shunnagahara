@@ -7,9 +7,7 @@ Country boy from Shiga, just playing with computers.🤝
 ## 📈 Status
 [![Contributions](https://badgen.org/img/qiita/Shun_Nagahara/contributions?style=flat)](https://qiita.com/Shun_Nagahara)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunnagahara&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shunnagahara" />
-</p>
+![shunnagahara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shunnagahara&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![shunnagahara's Stats](https://github-readme-stats.vercel.app/api?username=shunnagahara&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shunnagahara&margin-w=5&theme=chalk)](https://github.com/shunnagahara/)
