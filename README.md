@@ -1,7 +1,7 @@
 ## 🌕 About shunnagahara
 Country boy from Shiga, just playing with computers.🤝
 
-## ✉️ Mail
+## 📫 Mail
 shun.nagahara.jp@gmail.com
 
 ### 🌱 Skills
